@@ -1,0 +1,2 @@
+- yarn install
+- yarn parcel index.html -p 8080
